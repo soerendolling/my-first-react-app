@@ -1,0 +1,13 @@
+.pBox {
+  width: 300px;
+  padding: 20px;
+  height: auto;
+  border: solid 3px grey;
+}
+
+.boxLayout {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
